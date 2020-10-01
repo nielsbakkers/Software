@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bloeddruk-meten", "bloeddruk-meten\bloeddruk-meten.csproj", "{1B7DE8E6-388C-4BE8-8775-6A96C52ED94B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7DE8E6-388C-4BE8-8775-6A96C52ED94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7DE8E6-388C-4BE8-8775-6A96C52ED94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7DE8E6-388C-4BE8-8775-6A96C52ED94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7DE8E6-388C-4BE8-8775-6A96C52ED94B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0A72ED6-D52D-49C2-8FD7-FB7FC7B59028}
+	EndGlobalSection
+EndGlobal

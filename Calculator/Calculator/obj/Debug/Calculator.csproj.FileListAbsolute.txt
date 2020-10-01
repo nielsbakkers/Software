@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb

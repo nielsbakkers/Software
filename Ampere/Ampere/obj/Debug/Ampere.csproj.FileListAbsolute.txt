@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Ampere\Ampere\bin\Debug\Ampere.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Ampere\Ampere\bin\Debug\Ampere.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Ampere\Ampere\bin\Debug\Ampere.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Ampere\Ampere\obj\Debug\Ampere.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Ampere\Ampere\obj\Debug\Ampere.Ampere.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Ampere\Ampere\obj\Debug\Ampere.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Ampere\Ampere\obj\Debug\Ampere.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Ampere\Ampere\obj\Debug\Ampere.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Ampere\Ampere\obj\Debug\Ampere.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Ampere\Ampere\obj\Debug\Ampere.pdb
