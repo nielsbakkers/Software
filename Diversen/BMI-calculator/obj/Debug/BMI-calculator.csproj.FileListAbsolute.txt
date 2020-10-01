@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Diversen\BMI-calculator\bin\Debug\BMI-calculator.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Diversen\BMI-calculator\bin\Debug\BMI-calculator.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Diversen\BMI-calculator\bin\Debug\BMI-calculator.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Diversen\BMI-calculator\obj\Debug\BMI-calculator.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Diversen\BMI-calculator\obj\Debug\BMI_calculator.Form1.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Diversen\BMI-calculator\obj\Debug\BMI_calculator.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Diversen\BMI-calculator\obj\Debug\BMI-calculator.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Diversen\BMI-calculator\obj\Debug\BMI-calculator.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Diversen\BMI-calculator\obj\Debug\BMI-calculator.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Diversen\BMI-calculator\obj\Debug\BMI-calculator.pdb

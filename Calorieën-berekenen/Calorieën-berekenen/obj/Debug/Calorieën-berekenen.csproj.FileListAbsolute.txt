@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calorieën-berekenen\Calorieën-berekenen\obj\Debug\Calorieën-berekenen.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calorieën-berekenen\Calorieën-berekenen\obj\Debug\Calorieën_berekenen.Form1.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calorieën-berekenen\Calorieën-berekenen\obj\Debug\Calorieën_berekenen.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calorieën-berekenen\Calorieën-berekenen\obj\Debug\Calorieën-berekenen.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calorieën-berekenen\Calorieën-berekenen\obj\Debug\Calorieën-berekenen.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calorieën-berekenen\Calorieën-berekenen\bin\Debug\Calorieën-berekenen.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calorieën-berekenen\Calorieën-berekenen\bin\Debug\Calorieën-berekenen.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calorieën-berekenen\Calorieën-berekenen\bin\Debug\Calorieën-berekenen.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calorieën-berekenen\Calorieën-berekenen\obj\Debug\Calorieën-berekenen.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Calorieën-berekenen\Calorieën-berekenen\obj\Debug\Calorieën-berekenen.pdb

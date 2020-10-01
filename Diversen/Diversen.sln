@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vindhetwoord", "Vindhetwoord\Vindhetwoord.csproj", "{903B3B92-D85D-4C60-808B-DCCB6211A4EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI-calculator", "BMI-calculator\BMI-calculator.csproj", "{C7F902A1-D7AB-4F8C-805B-587C164DA8A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903B3B92-D85D-4C60-808B-DCCB6211A4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903B3B92-D85D-4C60-808B-DCCB6211A4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903B3B92-D85D-4C60-808B-DCCB6211A4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903B3B92-D85D-4C60-808B-DCCB6211A4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7F902A1-D7AB-4F8C-805B-587C164DA8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F902A1-D7AB-4F8C-805B-587C164DA8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F902A1-D7AB-4F8C-805B-587C164DA8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F902A1-D7AB-4F8C-805B-587C164DA8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A3AB349-BA3D-4065-AFA7-D6F88A5DB360}
+	EndGlobalSection
+EndGlobal
