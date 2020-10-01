@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Woorden-applicatie\Woorden-applicatie\bin\Debug\Woorden-applicatie.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Woorden-applicatie\Woorden-applicatie\bin\Debug\Woorden-applicatie.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Woorden-applicatie\Woorden-applicatie\bin\Debug\Woorden-applicatie.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Woorden-applicatie\Woorden-applicatie\obj\Debug\Woorden-applicatie.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Woorden-applicatie\Woorden-applicatie\obj\Debug\Woorden_applicatie.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Woorden-applicatie\Woorden-applicatie\obj\Debug\Woorden_applicatie.woordenapplicatie.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Woorden-applicatie\Woorden-applicatie\obj\Debug\Woorden-applicatie.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Woorden-applicatie\Woorden-applicatie\obj\Debug\Woorden-applicatie.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Woorden-applicatie\Woorden-applicatie\obj\Debug\Woorden-applicatie.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Woorden-applicatie\Woorden-applicatie\obj\Debug\Woorden-applicatie.pdb

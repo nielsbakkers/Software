@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\somvaneenreeksgetallen\somvaneenreeksgetallen\bin\Debug\somvaneenreeksgetallen.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\somvaneenreeksgetallen\somvaneenreeksgetallen\bin\Debug\somvaneenreeksgetallen.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\somvaneenreeksgetallen\somvaneenreeksgetallen\bin\Debug\somvaneenreeksgetallen.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\somvaneenreeksgetallen\somvaneenreeksgetallen\obj\Debug\somvaneenreeksgetallen.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\somvaneenreeksgetallen\somvaneenreeksgetallen\obj\Debug\somvaneenreeksgetallen.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\somvaneenreeksgetallen\somvaneenreeksgetallen\obj\Debug\somvaneenreeksgetallen.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\somvaneenreeksgetallen\somvaneenreeksgetallen\obj\Debug\somvaneenreeksgetallen.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\somvaneenreeksgetallen\somvaneenreeksgetallen\obj\Debug\somvaneenreeksgetallen.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\somvaneenreeksgetallen\somvaneenreeksgetallen\obj\Debug\somvaneenreeksgetallen.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\somvaneenreeksgetallen\somvaneenreeksgetallen\obj\Debug\somvaneenreeksgetallen.somvanreeksgetallen.resources

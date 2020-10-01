@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\wachtwoord-check\wachtwoord-check\bin\Debug\wachtwoord-check.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\wachtwoord-check\wachtwoord-check\bin\Debug\wachtwoord-check.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\wachtwoord-check\wachtwoord-check\bin\Debug\wachtwoord-check.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\wachtwoord-check\wachtwoord-check\obj\Debug\wachtwoord-check.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\wachtwoord-check\wachtwoord-check\obj\Debug\wachtwoord_check.Form1.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\wachtwoord-check\wachtwoord-check\obj\Debug\wachtwoord_check.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\wachtwoord-check\wachtwoord-check\obj\Debug\wachtwoord-check.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\wachtwoord-check\wachtwoord-check\obj\Debug\wachtwoord-check.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\wachtwoord-check\wachtwoord-check\obj\Debug\wachtwoord-check.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\wachtwoord-check\wachtwoord-check\obj\Debug\wachtwoord-check.pdb
