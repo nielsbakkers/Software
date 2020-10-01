@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Producten\Producten\bin\Debug\Producten.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Producten\Producten\bin\Debug\Producten.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Producten\Producten\bin\Debug\Producten.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Producten\Producten\obj\Debug\Producten.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Producten\Producten\obj\Debug\Producten.Fproducten.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Producten\Producten\obj\Debug\Producten.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Producten\Producten\obj\Debug\Producten.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Producten\Producten\obj\Debug\Producten.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Producten\Producten\obj\Debug\Producten.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Producten\Producten\obj\Debug\Producten.pdb

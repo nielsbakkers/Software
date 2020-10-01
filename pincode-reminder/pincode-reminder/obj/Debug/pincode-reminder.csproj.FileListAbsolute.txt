@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\pincode-reminder\pincode-reminder\bin\Debug\pincode-reminder.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\pincode-reminder\pincode-reminder\bin\Debug\pincode-reminder.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\pincode-reminder\pincode-reminder\bin\Debug\pincode-reminder.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\pincode-reminder\pincode-reminder\obj\Debug\pincode-reminder.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\pincode-reminder\pincode-reminder\obj\Debug\pincode_reminder.Form1.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\pincode-reminder\pincode-reminder\obj\Debug\pincode_reminder.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\pincode-reminder\pincode-reminder\obj\Debug\pincode-reminder.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\pincode-reminder\pincode-reminder\obj\Debug\pincode-reminder.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\pincode-reminder\pincode-reminder\obj\Debug\pincode-reminder.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\pincode-reminder\pincode-reminder\obj\Debug\pincode-reminder.pdb
