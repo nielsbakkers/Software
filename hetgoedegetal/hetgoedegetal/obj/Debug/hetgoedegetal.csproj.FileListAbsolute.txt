@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\hetgoedegetal\hetgoedegetal\bin\Debug\hetgoedegetal.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\hetgoedegetal\hetgoedegetal\bin\Debug\hetgoedegetal.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\hetgoedegetal\hetgoedegetal\bin\Debug\hetgoedegetal.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\hetgoedegetal\hetgoedegetal\obj\Debug\hetgoedegetal.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\hetgoedegetal\hetgoedegetal\obj\Debug\hetgoedegetal.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\hetgoedegetal\hetgoedegetal\obj\Debug\hetgoedegetal.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\hetgoedegetal\hetgoedegetal\obj\Debug\hetgoedegetal.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\hetgoedegetal\hetgoedegetal\obj\Debug\hetgoedegetal.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\hetgoedegetal\hetgoedegetal\obj\Debug\hetgoedegetal.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\hetgoedegetal\hetgoedegetal\obj\Debug\hetgoedegetal.Raadhetgetal.resources

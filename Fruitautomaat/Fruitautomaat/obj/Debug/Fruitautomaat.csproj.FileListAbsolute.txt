@@ -1,0 +1,16 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\bin\Debug\Fruitautomaat.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\bin\Debug\Fruitautomaat.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\bin\Debug\Fruitautomaat.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\obj\Debug\Fruitautomaat.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\obj\Debug\Fruitautomaat.Ffruitautomaat.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\obj\Debug\Fruitautomaat.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\obj\Debug\Fruitautomaat.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\obj\Debug\Fruitautomaat.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\obj\Debug\Fruitautomaat.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\obj\Debug\Fruitautomaat.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\bin\Debug\Images\appel.jpg
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\bin\Debug\Images\peer.jpg
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\bin\Debug\Images\banaan.jpg
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\bin\Debug\Images\kiwi.jpg
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\bin\Debug\Images\sinaasappel.jpg
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Fruitautomaat\Fruitautomaat\bin\Debug\Images\meloen.jpg
