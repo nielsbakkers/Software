@@ -1,0 +1,9 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\HalloJij!\bin\Debug\HalloJij!.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\HalloJij!\bin\Debug\HalloJij!.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\HalloJij!\bin\Debug\HalloJij!.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\HalloJij!\obj\Debug\HalloJij_.hallojij.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\HalloJij!\obj\Debug\HalloJij_.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\HalloJij!\obj\Debug\HalloJij!.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\HalloJij!\obj\Debug\HalloJij!.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\HalloJij!\obj\Debug\HalloJij!.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\HalloJij!\obj\Debug\HalloJij!.pdb

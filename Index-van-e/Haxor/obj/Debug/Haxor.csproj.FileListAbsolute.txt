@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\Haxor\bin\Debug\Haxor.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\Haxor\bin\Debug\Haxor.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\Haxor\bin\Debug\Haxor.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\Haxor\obj\Debug\Haxor.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\Haxor\obj\Debug\Haxor.Fhaxor.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\Haxor\obj\Debug\Haxor.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\Haxor\obj\Debug\Haxor.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\Haxor\obj\Debug\Haxor.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\Haxor\obj\Debug\Haxor.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\Index-van-e\Haxor\obj\Debug\Haxor.pdb
