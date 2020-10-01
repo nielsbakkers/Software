@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Euro-Dollar-Converter\Euro-Dollar-Converter\bin\Debug\Euro-Dollar-Converter.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Euro-Dollar-Converter\Euro-Dollar-Converter\bin\Debug\Euro-Dollar-Converter.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Euro-Dollar-Converter\Euro-Dollar-Converter\bin\Debug\Euro-Dollar-Converter.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Euro-Dollar-Converter\Euro-Dollar-Converter\obj\Debug\Euro-Dollar-Converter.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Euro-Dollar-Converter\Euro-Dollar-Converter\obj\Debug\Euro_Dollar_Converter.Form1.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Euro-Dollar-Converter\Euro-Dollar-Converter\obj\Debug\Euro_Dollar_Converter.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Euro-Dollar-Converter\Euro-Dollar-Converter\obj\Debug\Euro-Dollar-Converter.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Euro-Dollar-Converter\Euro-Dollar-Converter\obj\Debug\Euro-Dollar-Converter.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Euro-Dollar-Converter\Euro-Dollar-Converter\obj\Debug\Euro-Dollar-Converter.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\Projects\Euro-Dollar-Converter\Euro-Dollar-Converter\obj\Debug\Euro-Dollar-Converter.pdb

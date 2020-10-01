@@ -1,0 +1,10 @@
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\E-mailchecker\E-mailchecker\bin\Debug\E-mailchecker.exe.config
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\E-mailchecker\E-mailchecker\bin\Debug\E-mailchecker.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\E-mailchecker\E-mailchecker\bin\Debug\E-mailchecker.pdb
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\E-mailchecker\E-mailchecker\obj\Debug\E-mailchecker.csprojAssemblyReference.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\E-mailchecker\E-mailchecker\obj\Debug\E_mailchecker.Femail.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\E-mailchecker\E-mailchecker\obj\Debug\E_mailchecker.Properties.Resources.resources
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\E-mailchecker\E-mailchecker\obj\Debug\E-mailchecker.csproj.GenerateResource.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\E-mailchecker\E-mailchecker\obj\Debug\E-mailchecker.csproj.CoreCompileInputs.cache
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\E-mailchecker\E-mailchecker\obj\Debug\E-mailchecker.exe
+D:\HBO-ICT\Leerjaar 1\P-DB-SOFT\deelproducten\training\E-mailchecker\E-mailchecker\obj\Debug\E-mailchecker.pdb
